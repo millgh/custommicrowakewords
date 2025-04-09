@@ -1,10 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "ey_choorka",
-  "author": "Miller",
-  "website": "https://github.com/millgh",
-  "model": "ey_choorka.tflite",
-  "trained_languages": ["en"],
+  "wake_word": "Hey Jarvis",
+  "author": "Kevin Ahrendt",
+  "website": "https://www.kevinahrendt.com/",
+  "model": "./ey_choorka.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
