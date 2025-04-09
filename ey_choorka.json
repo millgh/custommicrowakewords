@@ -2,8 +2,9 @@
   "type": "micro",
   "wake_word": "ey_choorka",
   "author": "Miller",
-  "website": "",
+  "website": "https://github.com/millgh",
   "model": "ey_choorka.tflite",
+  "trained_languages": ["en"],
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
