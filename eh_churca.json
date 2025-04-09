@@ -3,7 +3,7 @@
   "wake_word": "eh_churca",
   "author": "Miller",
   "website": "",
-  "model": "./eh_churca.tflite",
+  "model": "eh_churca.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
