@@ -3,7 +3,7 @@
   "wake_word": "ey_choorka",
   "author": "Miller",
   "website": "",
-  "model": "./ey_choorka.tflite",
+  "model": "ey_choorka.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
